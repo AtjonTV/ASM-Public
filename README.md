@@ -12,7 +12,6 @@ Compatible with the Game Version: `1.0.3`
 |-----------------------------------------------------|------------|---------|-----------------|------------|
 | Reasonable Weapon Degradation                       | VAXIStaa   | v1.2    | [nexusmods.com](https://www.nexusmods.com/stalker2heartofchornobyl/mods/33)  ||
 | Even Longer Days                                    | JCaleb     | v0.1    | [nexusmods.com](https://www.nexusmods.com/stalker2heartofchornobyl/mods/47)  | 2h preset  |
-| Eye Adaption Fix                                    | itsrlPOLLO | v1.0    | [nexusmods.com](https://www.nexusmods.com/stalker2heartofchornobyl/mods/137) ||
 | Quest items weight to 0                             | deathelm   | v1.1    | [nexusmods.com](https://www.nexusmods.com/stalker2heartofchornobyl/mods/172) ||
 | Large Loot Inventory                                | KZekai     | v0.0.2  | [nexusmods.com](https://www.nexusmods.com/stalker2heartofchornobyl/mods/515) ||
 | Bode's Unlimited Saves                              | bode95     | v1.1    | [nexusmods.com](https://www.nexusmods.com/stalker2heartofchornobyl/mods/255) ||
@@ -23,23 +22,44 @@ Compatible with the Game Version: `1.0.3`
 | Maklane's Better Weights Balance                    | Maklane    | v1.3    | [nexusmods.com](https://www.nexusmods.com/stalker2heartofchornobyl/mods/139) | all variants |
 | UETools                                             | Cranch     | v1.2.1  | [nexusmods.com](https://www.nexusmods.com/stalker2heartofchornobyl/mods/64) ||
 | Faster Splash Screen                                | GaRRuSS    | v1.1    | [nexusmods.com](https://www.nexusmods.com/stalker2heartofchornobyl/mods/208) | 2s variant |
+| No Dead Body Sounds                                 | lopsi      | v1.2    | [nexusmods.com](https://www.nexusmods.com/stalker2heartofchornobyl/mods/347) ||
+| Mouse Vertical Sensitivity Fix                      | Rykane     | v0.1.0  | [nexusmods.com](https://www.nexusmods.com/stalker2heartofchornobyl/mods/86) ||
+| Less Psy Dog Clones                                 | stoBenino  | v0.0.2  | [nexusmods.com](https://www.nexusmods.com/stalker2heartofchornobyl/mods/661) | 5 clones preset |
+| Grok's Modular Mutants Health                       | Grok       | v1.3    | [nexusmods.com](https://www.nexusmods.com/stalker2heartofchornobyl/mods/23) | all balanced |
 
-### Config Mod
+## Config Mods
 
-File: `%LocalAppData%\Stalker2\Saved\Config\Windows\Engine.ini`
-```ini
-[SystemSettings]
-r.EyeAdaptationQuality=1
-```
+| Name                                                | Author     | Version | Link            | Note       |
+|-----------------------------------------------------|------------|---------|-----------------|------------|
+| Eye Adaption Fix                                    | itsrlPOLLO | v1.0    | [nexusmods.com](https://www.nexusmods.com/stalker2heartofchornobyl/mods/137) ||
+| Anti-Stutter Mod and Massive FPS Boost              | qmqz       | v1.4.1  | [nexusmods.com](https://www.nexusmods.com/stalker2heartofchornobyl/mods/133) ||
+
+### Installation
+
+Place the `File` in the `Target Location`, override existing files if needed.
+
+| File               | Target Location                                           |
+|--------------------|-----------------------------------------------------------|
+| configs\Engine.ini | `%LocalAppData%\Stalker2\Saved\Config\Windows\Engine.ini` |
 
 ## Changelog
+
+### Version v1.4
+
+| Action  | Name                                                | Author     | Version | Link            | Note       |
+|---------|-----------------------------------------------------|------------|---------|-----------------|------------|
+| Added   | Anti-Stutter Mod and Massive FPS Boost              | qmqz       | v1.4.1  | [nexusmods.com](https://www.nexusmods.com/stalker2heartofchornobyl/mods/133) ||
+| Added   | No Dead Body Sounds                                 | lopsi      | v1.2    | [nexusmods.com](https://www.nexusmods.com/stalker2heartofchornobyl/mods/347) ||
+| Added   | Mouse Vertical Sensitivity Fix                      | Rykane     | v0.1.0  | [nexusmods.com](https://www.nexusmods.com/stalker2heartofchornobyl/mods/86) ||
+| Added   | Less Psy Dog Clones                                 | stoBenino  | v0.0.2  | [nexusmods.com](https://www.nexusmods.com/stalker2heartofchornobyl/mods/661) | 5 clones preset |
+| Added   | Grok's Modular Mutants Health                       | Grok       | v1.3    | [nexusmods.com](https://www.nexusmods.com/stalker2heartofchornobyl/mods/23) | all balanced |
 
 ### Version v1.3
 
 | Action  | Name                                                | Author     | Version | Link            | Note       |
 |---------|-----------------------------------------------------|------------|---------|-----------------|------------|
-| Removed | No (or reduced) weight for ammo nades meds and food | truditu    | v1.0    | [nexusmods.com](https://www.nexusmods.com/stalker2heartofchornobyl/mods/45)  | 50% preset |
-| Removed | Fractions Patch                                     | Zeddoth    | v0.3    | [nexusmods.com](https://www.nexusmods.com/stalker2heartofchornobyl/mods/721) | did not work |
+| Removed | No (or reduced) weight for ammo nades meds and food | truditu    | v1.0    | [nexusmods.com](https://www.nexusmods.com/stalker2heartofchornobyl/mods/45)  | replaced |
+| Removed | Fractions Patch                                     | Zeddoth    | v0.3    | [nexusmods.com](https://www.nexusmods.com/stalker2heartofchornobyl/mods/721) | not compatible |
 | Updated | Real Weapon Names                                   | madmanskiii| v1.14m  | [nexusmods.com](https://www.nexusmods.com/stalker2heartofchornobyl/mods/144) | from v1.13 |
 | Added   | Maklane's Better Weights Balance                    | Maklane    | v1.3    | [nexusmods.com](https://www.nexusmods.com/stalker2heartofchornobyl/mods/139) | all variants |
 | Added   | UETools                                             | Cranch     | v1.2.1  | [nexusmods.com](https://www.nexusmods.com/stalker2heartofchornobyl/mods/64) ||
