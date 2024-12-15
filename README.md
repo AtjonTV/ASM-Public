@@ -14,9 +14,7 @@ Compatible with the Game Version: `1.0.3`
 | Even Longer Days                                    | JCaleb     | v0.1    | [nexusmods.com](https://www.nexusmods.com/stalker2heartofchornobyl/mods/47)  | 2h preset  |
 | Quest items weight to 0                             | deathelm   | v1.1    | [nexusmods.com](https://www.nexusmods.com/stalker2heartofchornobyl/mods/172) ||
 | Large Loot Inventory                                | KZekai     | v0.0.2  | [nexusmods.com](https://www.nexusmods.com/stalker2heartofchornobyl/mods/515) ||
-| Bode's Unlimited Saves                              | bode95     | v1.1    | [nexusmods.com](https://www.nexusmods.com/stalker2heartofchornobyl/mods/255) ||
-| Mutant Loot                                         | somberX    | v1.1.4  | [nexusmods.com](https://www.nexusmods.com/stalker2heartofchornobyl/mods/389) ||
-| Project Itemization                                 | FazanR     | v0.20   | [nexusmods.com](https://www.nexusmods.com/stalker2heartofchornobyl/mods/445) ||
+| Bode's Unlimited Saves                              | bode95     | v1.2    | [nexusmods.com](https://www.nexusmods.com/stalker2heartofchornobyl/mods/255) ||
 | Readable Ammo                                       | JCaleb     | v0.1.1  | [nexusmods.com](https://www.nexusmods.com/stalker2heartofchornobyl/mods/147) | descriptive variant |
 | Real Weapon Names                                   | madmanskiii| v1.14m  | [nexusmods.com](https://www.nexusmods.com/stalker2heartofchornobyl/mods/144) ||
 | Maklane's Better Weights Balance                    | Maklane    | v1.3    | [nexusmods.com](https://www.nexusmods.com/stalker2heartofchornobyl/mods/139) | all variants |
@@ -44,6 +42,16 @@ Place the `File` in the `Target Location`, override existing files if needed.
 
 ## Changelog
 
+### Version v1.5 (WIP)
+
+> **WARNING**: In this version two item-mods where removed. MAKE SURE TO SELL ALL MOD ITEMS AND SLEEP AS OFTEN AS NEEDED UNTIL ALL ITEMS VANISH FROM TRADERS INVENTORY, BEFORE REMOVING THE MODS.
+
+| Action  | Name                                                | Author     | Version | Link            | Note       |
+|---------|-----------------------------------------------------|------------|---------|-----------------|------------|
+| Updated | Bode's Unlimited Saves                              | bode95     | v1.2    | [nexusmods.com](https://www.nexusmods.com/stalker2heartofchornobyl/mods/255) | from v1.1 |
+| Removed | Mutant Loot                                         | somberX    | v1.1.4  | [nexusmods.com](https://www.nexusmods.com/stalker2heartofchornobyl/mods/389) | corrupts savegames |
+| Removed | Project Itemization                                 | FazanR     | v0.20   | [nexusmods.com](https://www.nexusmods.com/stalker2heartofchornobyl/mods/445) | corrupts savegames |
+
 ### Version v1.4
 
 | Action  | Name                                                | Author     | Version | Link            | Note       |
@@ -59,7 +67,7 @@ Place the `File` in the `Target Location`, override existing files if needed.
 | Action  | Name                                                | Author     | Version | Link            | Note       |
 |---------|-----------------------------------------------------|------------|---------|-----------------|------------|
 | Removed | No (or reduced) weight for ammo nades meds and food | truditu    | v1.0    | [nexusmods.com](https://www.nexusmods.com/stalker2heartofchornobyl/mods/45)  | replaced |
-| Removed | Fractions Patch                                     | Zeddoth    | v0.3    | [nexusmods.com](https://www.nexusmods.com/stalker2heartofchornobyl/mods/721) | not compatible |
+| Removed | Factions Patch                                      | Zeddoth    | v0.3    | [nexusmods.com](https://www.nexusmods.com/stalker2heartofchornobyl/mods/721) | not compatible |
 | Updated | Real Weapon Names                                   | madmanskiii| v1.14m  | [nexusmods.com](https://www.nexusmods.com/stalker2heartofchornobyl/mods/144) | from v1.13 |
 | Added   | Maklane's Better Weights Balance                    | Maklane    | v1.3    | [nexusmods.com](https://www.nexusmods.com/stalker2heartofchornobyl/mods/139) | all variants |
 | Added   | UETools                                             | Cranch     | v1.2.1  | [nexusmods.com](https://www.nexusmods.com/stalker2heartofchornobyl/mods/64) ||
@@ -69,7 +77,7 @@ Place the `File` in the `Target Location`, override existing files if needed.
 
 | Action  | Name                                                | Author     | Version | Link            | Note       |
 |---------|-----------------------------------------------------|------------|---------|-----------------|------------|
-| Added   | Fractions Patch                                     | Zeddoth    | v0.3    | [nexusmods.com](https://www.nexusmods.com/stalker2heartofchornobyl/mods/721) ||
+| Added   | Factions Patch                                      | Zeddoth    | v0.3    | [nexusmods.com](https://www.nexusmods.com/stalker2heartofchornobyl/mods/721) ||
 | Added   | Real Weapon Names                                   | madmanskiii| v1.13   | [nexusmods.com](https://www.nexusmods.com/stalker2heartofchornobyl/mods/144) ||
 
 
