@@ -42,7 +42,7 @@ Place the `File` in the `Target Location`, override existing files if needed.
 
 ## Changelog
 
-### Version v1.5 (WIP)
+### Version v1.5
 
 > **WARNING**: In this version two item-mods where removed. MAKE SURE TO SELL ALL MOD ITEMS AND SLEEP AS OFTEN AS NEEDED UNTIL ALL ITEMS VANISH FROM TRADERS INVENTORY, BEFORE REMOVING THE MODS.
 
