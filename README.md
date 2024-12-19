@@ -1,5 +1,10 @@
 # ASM - AtjonTV's S.T.A.L.K.E.R. 2 Modpack
 
+> INFO: Earlier today (19th of December 2024) a major patch for Stalker 2 was released `1.1.0`.  
+> This modpack was NOT tested and MIGHT be incompatible with that version.  
+> If you are using the modpack v1.5, you can safely remove all mods and play without them if they cause issues.  
+> I will test if modpack v1.5 is compatible with the new patch as soon as possible.
+
 This is a small modpack for `S.T.A.L.K.E.R. 2: Heart of Chornobyl`.
 
 Compatible with the Game Version: `1.0.3`
