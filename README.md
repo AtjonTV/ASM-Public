@@ -1,10 +1,10 @@
 # ASM - AtjonTV's S.T.A.L.K.E.R. 2 Modpack
 
+> **Note**: Due to license restrictions, I can not distribute the modpack as a single package. You will have to download the mods in the specified version and variant yourself.
+
 This is a small modpack for `S.T.A.L.K.E.R. 2: Heart of Chornobyl`.
 
-Compatible with the Game Version: `1.0.3`
-
-> **Note**: Due to license restrictions, I can not distribute the modpack as a single package. You will have to download the mods in the specified version and variant yourself.
+Compatible with the Game Version: `1.1.2`
 
 ## Mods
 
@@ -12,10 +12,12 @@ Compatible with the Game Version: `1.0.3`
 |-----------------------------------------------------|------------|---------|-----------------|------------|
 | Quest items weight to 0                             | deathelm   | v1.1    | [nexusmods.com](https://www.nexusmods.com/stalker2heartofchornobyl/mods/172) ||
 | Large Loot Inventory                                | KZekai     | v0.0.3  | [nexusmods.com](https://www.nexusmods.com/stalker2heartofchornobyl/mods/515) ||
-| Bode's Unlimited Saves                              | bode95     | v1.2    | [nexusmods.com](https://www.nexusmods.com/stalker2heartofchornobyl/mods/255) ||
+| Bode's Unlimited Saves                              | bode95     | v1.3    | [nexusmods.com](https://www.nexusmods.com/stalker2heartofchornobyl/mods/255) ||
 | Readable Ammo                                       | JCaleb     | v0.1.1  | [nexusmods.com](https://www.nexusmods.com/stalker2heartofchornobyl/mods/147) | descriptive variant |
-| Real Weapon Names                                   | madmanskiii| v1.2ß   | [nexusmods.com](https://www.nexusmods.com/stalker2heartofchornobyl/mods/144) ||
-| Maklane's Better Weights Balance                    | Maklane    | v1.4    | [nexusmods.com](https://www.nexusmods.com/stalker2heartofchornobyl/mods/139) | all variants |
+| Real Weapon Names                                   | madmanskiii| v1.27   | [nexusmods.com](https://www.nexusmods.com/stalker2heartofchornobyl/mods/144) ||
+| Maklane's Better Weights Balance (Ammo)             | Maklane    | v1.6.1  | [nexusmods.com](https://www.nexusmods.com/stalker2heartofchornobyl/mods/139) ||
+| Maklane's Better Weights Balance (Consumables)      | Maklane    | v1.5    | [nexusmods.com](https://www.nexusmods.com/stalker2heartofchornobyl/mods/139) ||
+| Maklane's Better Weights Balance (Grenades)         | Maklane    | v1.5    | [nexusmods.com](https://www.nexusmods.com/stalker2heartofchornobyl/mods/139) ||
 | UETools                                             | Cranch     | v1.2.1  | [nexusmods.com](https://www.nexusmods.com/stalker2heartofchornobyl/mods/64) ||
 | Faster Splash Screen                                | GaRRuSS    | v1.2    | [nexusmods.com](https://www.nexusmods.com/stalker2heartofchornobyl/mods/208) | 2s variant |
 | No Dead Body Sounds                                 | lopsi      | v1.3    | [nexusmods.com](https://www.nexusmods.com/stalker2heartofchornobyl/mods/347) ||
@@ -38,22 +40,26 @@ Place the `File` in the `Target Location`, override existing files if needed.
 
 ## Changelog
 
-### Version v2.0 (WIP)
+### Version v2.0
 
-Modpack for Game `v1.1.0` and `v1.1.1`.
+Modpack for Game `v1.1.2`.
 
 | Action  | Name                                                | Author     | Version | Link            | Note       |
 |---------|-----------------------------------------------------|------------|---------|-----------------|------------|
 | Updated | Quest items weight to 0                             | deathelm   | v1.1    | [nexusmods.com](https://www.nexusmods.com/stalker2heartofchornobyl/mods/172) ||
 | Updated | Large Loot Inventory                                | KZekai     | v0.0.3  | [nexusmods.com](https://www.nexusmods.com/stalker2heartofchornobyl/mods/515) | from v0.0.2 |
-| Updated | Real Weapon Names                                   | madmanskiii| v1.20   | [nexusmods.com](https://www.nexusmods.com/stalker2heartofchornobyl/mods/144) | from v1.14m |
+| Updated | Real Weapon Names                                   | madmanskiii| v1.27   | [nexusmods.com](https://www.nexusmods.com/stalker2heartofchornobyl/mods/144) | from v1.14m |
 | Updated | Faster Splash Screen                                | GaRRuSS    | v1.2    | [nexusmods.com](https://www.nexusmods.com/stalker2heartofchornobyl/mods/208) | from v1.1 |
 | Updated | No Dead Body Sounds                                 | lopsi      | v1.3    | [nexusmods.com](https://www.nexusmods.com/stalker2heartofchornobyl/mods/347) | from v1.2 |
-| Updated | Maklane's Better Weights Balance                    | Maklane    | v1.4    | [nexusmods.com](https://www.nexusmods.com/stalker2heartofchornobyl/mods/139) | from v1.3, only ammo variant |
+| Updated | Maklane's Better Weights Balance (Ammo)             | Maklane    | v1.6.1  | [nexusmods.com](https://www.nexusmods.com/stalker2heartofchornobyl/mods/139) | from v1.4 |
+| Updated | Maklane's Better Weights Balance (Consumables)      | Maklane    | v1.5    | [nexusmods.com](https://www.nexusmods.com/stalker2heartofchornobyl/mods/139) | from v1.3 |
+| Updated | Maklane's Better Weights Balance (Grenades)         | Maklane    | v1.5    | [nexusmods.com](https://www.nexusmods.com/stalker2heartofchornobyl/mods/139) | from v1.3 |
+| Updated | Bode's Unlimited Saves                              | bode95     | v1.4    | [nexusmods.com](https://www.nexusmods.com/stalker2heartofchornobyl/mods/255) | from v1.3 |
 | Removed | Less Psy Dog Clones                                 | stoBenino  | v0.0.2  | [nexusmods.com](https://www.nexusmods.com/stalker2heartofchornobyl/mods/661) | not tested |
 | Removed | Grok's Modular Mutants Health                       | Grok       | v1.3    | [nexusmods.com](https://www.nexusmods.com/stalker2heartofchornobyl/mods/23) | not tested |
 | Removed | Reasonable Weapon Degradation                       | VAXIStaa   | v1.2    | [nexusmods.com](https://www.nexusmods.com/stalker2heartofchornobyl/mods/33)  | not compatible |
 | Removed | Even Longer Days                                    | JCaleb     | v0.1    | [nexusmods.com](https://www.nexusmods.com/stalker2heartofchornobyl/mods/47)  | possible A-Life issues |
+
 
 ### Version v1.5
 
